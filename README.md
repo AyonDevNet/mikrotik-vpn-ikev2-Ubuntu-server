@@ -128,7 +128,6 @@ VPN route debugging
 
 🧑‍💻 Author
 Mohammed Ayon
-Certifications: CCNA | CCNP | MTCNA | MTCRE | MTCSE | RHCSA | RHCE | AWS | Docker
 GitHub: @AyonDevNet
 
 📁 License
